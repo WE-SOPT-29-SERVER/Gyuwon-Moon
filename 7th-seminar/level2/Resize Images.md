@@ -1,0 +1,1 @@
+# Firebase Extensions - Resize Images
