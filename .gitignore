@@ -126,3 +126,6 @@ dist
 .webpack/
 
 # End of https://www.toptal.com/developers/gitignore/api/node
+
+# Firebase service account
+wesopt29-server-firebase-adminsdk-9wblk-ee4d45519a.json
